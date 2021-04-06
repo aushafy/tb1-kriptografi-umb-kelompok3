@@ -12,6 +12,8 @@ import numpy
 # 2. Each row / matrix : 1 3 5, 1 2 3, 1 2 2
 # 3. Decrypt
 # 4. Enter text from encrypt result
+
+# Referensi = http://python.algorithmexamples.com/web/ciphers/hill_cipher.html
  
  
 def greatest_common_divisor(a: int, b: int) -> int:
