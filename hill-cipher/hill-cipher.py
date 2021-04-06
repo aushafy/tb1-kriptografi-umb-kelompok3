@@ -1,13 +1,27 @@
 import string
 import numpy
 
-# Use This For Encrypt
+# Use This For Encrypt with 2 values
+# 1. Encryption key : 2
+# 2. Each row / matrix : 1 3, 2 5
+# 3. Encrypt
+# 4. Enter Text
+
+# Use this for decrypt with 2 values
+# 1. Encryption key : 2
+# 2. Each row / matrix : 1 3, 2 5
+# 3. Decrypt
+# 4. Enter text from encrypt result
+
+##############################################
+
+# Use This For Encrypt with 3 values
 # 1. Encryption key : 3
 # 2. Each row / matrix : 1 3 5, 1 2 3, 1 2 2
 # 3. Encrypt
 # 4. Enter Text
 
-# Use this for decrypt
+# Use this for decrypt with 3 values
 # 1. Encryption key : 3
 # 2. Each row / matrix : 1 3 5, 1 2 3, 1 2 2
 # 3. Decrypt
